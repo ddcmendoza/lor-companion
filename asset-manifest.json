@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lor-companion/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/lor-companion/static/js/main.363029d5.chunk.js",
-    "main.js.map": "/lor-companion/static/js/main.363029d5.chunk.js.map",
+    "main.css": "/lor-companion/static/css/main.5defb568.chunk.css",
+    "main.js": "/lor-companion/static/js/main.9538a7ee.chunk.js",
+    "main.js.map": "/lor-companion/static/js/main.9538a7ee.chunk.js.map",
     "runtime-main.js": "/lor-companion/static/js/runtime-main.77120c46.js",
     "runtime-main.js.map": "/lor-companion/static/js/runtime-main.77120c46.js.map",
     "static/js/2.6b50f364.chunk.js": "/lor-companion/static/js/2.6b50f364.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.d716ca77.chunk.js": "/lor-companion/static/js/3.d716ca77.chunk.js",
     "static/js/3.d716ca77.chunk.js.map": "/lor-companion/static/js/3.d716ca77.chunk.js.map",
     "index.html": "/lor-companion/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/lor-companion/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/main.5defb568.chunk.css.map": "/lor-companion/static/css/main.5defb568.chunk.css.map",
     "static/js/2.6b50f364.chunk.js.LICENSE.txt": "/lor-companion/static/js/2.6b50f364.chunk.js.LICENSE.txt",
     "static/media/loading.1708de7d.gif": "/lor-companion/static/media/loading.1708de7d.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.77120c46.js",
     "static/js/2.6b50f364.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.363029d5.chunk.js"
+    "static/css/main.5defb568.chunk.css",
+    "static/js/main.9538a7ee.chunk.js"
   ]
 }
