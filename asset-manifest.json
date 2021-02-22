@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lor-companion/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/lor-companion/static/js/main.62a61ff3.chunk.js",
-    "main.js.map": "/lor-companion/static/js/main.62a61ff3.chunk.js.map",
+    "main.js": "/lor-companion/static/js/main.71e45cfb.chunk.js",
+    "main.js.map": "/lor-companion/static/js/main.71e45cfb.chunk.js.map",
     "runtime-main.js": "/lor-companion/static/js/runtime-main.77120c46.js",
     "runtime-main.js.map": "/lor-companion/static/js/runtime-main.77120c46.js.map",
     "static/js/2.6b50f364.chunk.js": "/lor-companion/static/js/2.6b50f364.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.77120c46.js",
     "static/js/2.6b50f364.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.62a61ff3.chunk.js"
+    "static/js/main.71e45cfb.chunk.js"
   ]
 }
