@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media only screen and (max-width:600px){
+  .table th, .table td,tbody{
+    margin: 0 !important;
+    padding:0.1rem !important;
+    font-size: small;
+  }
+  .btn-group .btn{
+    font-size: x-small;
+    max-width: 20vw;
+    min-width: 15vw;
+  }
+}
+
